@@ -8,8 +8,10 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
+I used Voyant to search this website: [I Have No Mouth, and I Must Scream PDF](https://openlab.citytech.cuny.edu/?get_group_doc=22694/1540157347-HarlanEllison-IHaveNoMouthandIMustScream.pdf)
+
 ## Visualization
-![I Have No Mouth and I Must Scream Visualization](<img width="461" height="313" alt="Screen Shot 2025-09-10 at 2 43 40 AM" src="https://github.com/user-attachments/assets/63bed04f-f496-4e6f-99ed-c307f7f20a83" />)
+![I Have No Mouth and I Must Scream Visualization](VoyantVisualization.png)
 
 ## CoPilot Replies
 Existential Themes
