@@ -1,17 +1,17 @@
----
+[The Search in Art.html](https://github.com/user-attachments/files/23515427/The.Search.in.Art.html)---
 layout: default
 title: Research Project
 ---  
 
 # My Final Research Project  
 
-This is a big project, and you definitely want a place to show it off! Here's a suggested layout for that (but feel free to display your work however you prefer).
-You can link to your project here, or embed it.
-If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
+[Uploading The Search in Art.html…]()
+
 
 # Abstract
 
-Here is my abstract. 
+[Excercise 11_ Research Abstract.docx](https://github.com/user-attachments/files/23515416/Excercise.11_.Research.Abstract.docx)
+
 
 
 # Works Cited
